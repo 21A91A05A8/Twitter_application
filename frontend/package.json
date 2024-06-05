@@ -21,7 +21,7 @@
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "react-twitter-embed": "^3.0.3"
+    "react-twitter-embed": "^4.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
